@@ -1,0 +1,21 @@
+.AddVisitorComponentContainer {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    min-width: 450px;
+    gap: 24px;
+}
+
+.AddVisitorHeadline {
+    padding-bottom: 7px;
+}
+
+.InputFieldContainer {
+    width: 100%;
+}
+
+.ButtonsContainer{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}

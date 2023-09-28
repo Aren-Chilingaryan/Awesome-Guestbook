@@ -1,0 +1,14 @@
+.AdminPanelContainer{
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.AddVisitorComponentWrapper{
+    padding-top: px;
+}
+
+.VisitorManagementComponentWrapper{
+    flex: 1;
+}
